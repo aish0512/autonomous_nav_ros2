@@ -1,0 +1,6 @@
+source;share/autonoomous_tb3/hook/pythonpath.ps1
+source;share/autonoomous_tb3/hook/pythonpath.dsv
+source;share/autonoomous_tb3/hook/pythonpath.sh
+source;share/autonoomous_tb3/hook/ament_prefix_path.ps1
+source;share/autonoomous_tb3/hook/ament_prefix_path.dsv
+source;share/autonoomous_tb3/hook/ament_prefix_path.sh

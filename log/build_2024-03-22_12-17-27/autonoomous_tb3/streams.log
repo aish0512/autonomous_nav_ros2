@@ -1,0 +1,25 @@
+[0.729s] Invoking command in '/home/aishwarya/autonomous_tb3_ws/src/autonoomous_tb3': PYTHONPATH=/home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/prefix_override:/home/aishwarya/autonomous_tb3_ws/install/autonoomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonoomous_tb3 build --build-base /home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/build install --record /home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/install.log --single-version-externally-managed install_data
+[0.921s] running egg_info
+[0.938s] writing ../../build/autonoomous_tb3/autonoomous_tb3.egg-info/PKG-INFO
+[0.940s] writing dependency_links to ../../build/autonoomous_tb3/autonoomous_tb3.egg-info/dependency_links.txt
+[0.941s] writing entry points to ../../build/autonoomous_tb3/autonoomous_tb3.egg-info/entry_points.txt
+[0.941s] writing requirements to ../../build/autonoomous_tb3/autonoomous_tb3.egg-info/requires.txt
+[0.941s] writing top-level names to ../../build/autonoomous_tb3/autonoomous_tb3.egg-info/top_level.txt
+[0.966s] reading manifest file '../../build/autonoomous_tb3/autonoomous_tb3.egg-info/SOURCES.txt'
+[0.967s] writing manifest file '../../build/autonoomous_tb3/autonoomous_tb3.egg-info/SOURCES.txt'
+[0.967s] running build
+[0.967s] running build_py
+[0.968s] copying autonoomous_tb3/occupancy_grid_pub.py -> /home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/build/lib/autonoomous_tb3
+[0.968s] copying autonoomous_tb3/__init__.py -> /home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/build/lib/autonoomous_tb3
+[0.969s] running install
+[0.974s] running install_lib
+[0.988s] running install_data
+[0.989s] copying resource/autonoomous_tb3 -> /home/aishwarya/autonomous_tb3_ws/install/autonoomous_tb3/share/ament_index/resource_index/packages
+[0.989s] copying package.xml -> /home/aishwarya/autonomous_tb3_ws/install/autonoomous_tb3/share/autonoomous_tb3
+[0.989s] running install_egg_info
+[1.004s] removing '/home/aishwarya/autonomous_tb3_ws/install/autonoomous_tb3/lib/python3.10/site-packages/autonoomous_tb3-0.0.0-py3.10.egg-info' (and everything under it)
+[1.004s] Copying ../../build/autonoomous_tb3/autonoomous_tb3.egg-info to /home/aishwarya/autonomous_tb3_ws/install/autonoomous_tb3/lib/python3.10/site-packages/autonoomous_tb3-0.0.0-py3.10.egg-info
+[1.005s] running install_scripts
+[1.126s] Installing occupancy_grid_pub script to /home/aishwarya/autonomous_tb3_ws/install/autonoomous_tb3/lib/autonoomous_tb3
+[1.137s] writing list of installed files to '/home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/install.log'
+[1.170s] Invoked command in '/home/aishwarya/autonomous_tb3_ws/src/autonoomous_tb3' returned '0': PYTHONPATH=/home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/prefix_override:/home/aishwarya/autonomous_tb3_ws/install/autonoomous_tb3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonoomous_tb3 build --build-base /home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/build install --record /home/aishwarya/autonomous_tb3_ws/build/autonoomous_tb3/install.log --single-version-externally-managed install_data
